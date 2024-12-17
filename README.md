@@ -3,6 +3,8 @@
 
 Shortcut to the core. WormHole is your personal portal to any system. It bypasses all those pesky redirects and dives straight into the heart of a network.
 
+![](https://github.com/mzrismuarf/wormhole/blob/main/image/image.png)
+
 ## Installation
 
 
