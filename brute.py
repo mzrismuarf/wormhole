@@ -6,7 +6,7 @@ import os
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from colorama import init, Fore, Style
 from termcolor import colored
-#from halo import Halo
+from halo import Halo
 
 # colorama for windows
 init()
